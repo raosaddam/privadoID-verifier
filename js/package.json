@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@iden3/js-iden3-auth": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "idb-keyval": "^6.2.1",
+    "rfc4648": "^1.5.3",
+    "snarkjs": "^0.7.4"
+  }
+}
